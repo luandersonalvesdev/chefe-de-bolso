@@ -6,7 +6,7 @@
 
 ## Sobre o projeto
         Este projeto foi desenvolvido no módulo de front-end da Trybe, na data 15/05/2023 
-        onde eu e meu grupo, constituído por: @gralbergomes, @odouglasoliveira e 
+        onde eu e meu grupo, constituído por: @gralbergomes, @odouglasoliveira, @euHec e 
         @arthuurcordeiro, conseguimos colocar em prática os aprendizados até então.
         O projeto é um aplicativo de receitas tanto de comidas quanto de bebidas, onde 
         o usuário ao fazer um "login" tem acesso as receitas, podendo ele pesquisar, 
