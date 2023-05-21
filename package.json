@@ -2,7 +2,7 @@
   "name": "recipes-app-test",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://{username}.github.io/{nome-do-repositorio}",
+  "homepage": "https://luandersonalvesdev.github.io/chefe-de-bolso",
   "engines": {
     "node": "16 || 18"
   },
