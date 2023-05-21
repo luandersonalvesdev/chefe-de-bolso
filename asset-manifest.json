@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/chefe-de-bolso/static/css/main.68281c92.css",
+    "main.js": "/chefe-de-bolso/static/js/main.141d12f1.js",
+    "static/media/mealIcon.svg": "/chefe-de-bolso/static/media/mealIcon.40029e7f1422ba5a1bf1c10fa4f59030.svg",
+    "static/media/shareIcon.svg": "/chefe-de-bolso/static/media/shareIcon.87def1bd1dff9af9263f046c3b9bd31a.svg",
+    "static/media/profileIcon.svg": "/chefe-de-bolso/static/media/profileIcon.44eb3608f431845fe2fc2d2a23d758ae.svg",
+    "static/media/whiteHeartIcon.svg": "/chefe-de-bolso/static/media/whiteHeartIcon.2b822118952dc5140129c6349fcd0472.svg",
+    "static/media/searchIcon.svg": "/chefe-de-bolso/static/media/searchIcon.7353564d025de989f86f66ecb0202a04.svg",
+    "static/media/blackHeartIcon.svg": "/chefe-de-bolso/static/media/blackHeartIcon.083cb006913d197c95857ebfa2161db7.svg",
+    "static/media/drinkIcon.svg": "/chefe-de-bolso/static/media/drinkIcon.efc0d3c156e5da73e44a826c8d67b142.svg",
+    "index.html": "/chefe-de-bolso/index.html",
+    "main.68281c92.css.map": "/chefe-de-bolso/static/css/main.68281c92.css.map",
+    "main.141d12f1.js.map": "/chefe-de-bolso/static/js/main.141d12f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68281c92.css",
+    "static/js/main.141d12f1.js"
+  ]
+}
